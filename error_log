@@ -1,0 +1,16 @@
+[Sun Aug 04 14:58:09 2013] [error] [client 127.0.0.1] File does not exist: /home/sg/Dropbox/Common/EugenP/site-codei/favicon.ico
+[Sun Aug 04 14:58:09 2013] [error] [client 127.0.0.1] File does not exist: /home/sg/Dropbox/Common/EugenP/site-codei/favicon.ico
+[Sun Aug 04 17:58:23 2013] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_LIST, expecting T_STRING in /home/sg/Dropbox/Common/EugenP/site-codei/application/controllers/game.php on line 24
+[Sun Aug 04 17:58:46 2013] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/sg/Dropbox/Common/EugenP/site-codei/application/controllers/game.php on line 22
+[Sun Aug 04 17:59:06 2013] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_LIST, expecting T_STRING in /home/sg/Dropbox/Common/EugenP/site-codei/application/controllers/game.php on line 24
+[Sun Aug 04 17:59:14 2013] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined method Game::show() in /home/sg/Dropbox/Common/EugenP/site-codei/application/controllers/game.php on line 21
+[Sun Aug 04 17:59:23 2013] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_LIST, expecting T_STRING in /home/sg/Dropbox/Common/EugenP/site-codei/application/controllers/game.php on line 24
+[Sun Aug 04 17:59:36 2013] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_LIST, expecting T_STRING in /home/sg/Dropbox/Common/EugenP/site-codei/application/controllers/game.php on line 24
+[Sun Aug 04 17:59:38 2013] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_LIST, expecting T_STRING in /home/sg/Dropbox/Common/EugenP/site-codei/application/controllers/game.php on line 24
+[Sun Aug 04 18:00:06 2013] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/sg/Dropbox/Common/EugenP/site-codei/application/controllers/game.php on line 22
+[Sun Aug 04 18:00:25 2013] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_LIST, expecting T_STRING in /home/sg/Dropbox/Common/EugenP/site-codei/application/controllers/game.php on line 24
+[Sun Aug 04 18:00:43 2013] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_LIST, expecting T_STRING in /home/sg/Dropbox/Common/EugenP/site-codei/application/controllers/game.php on line 24
+[Sun Aug 04 18:02:22 2013] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_LIST, expecting T_STRING in /home/sg/Dropbox/Common/EugenP/site-codei/application/controllers/game.php on line 25
+[Sun Aug 04 18:02:58 2013] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined method Game::list() in /home/sg/Dropbox/Common/EugenP/site-codei/application/controllers/game.php on line 21
+[Sun Aug 04 18:03:10 2013] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_LIST, expecting T_STRING in /home/sg/Dropbox/Common/EugenP/site-codei/application/controllers/game.php on line 25
+[Sun Aug 04 18:03:15 2013] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_LIST, expecting T_STRING in /home/sg/Dropbox/Common/EugenP/site-codei/application/controllers/game.php on line 25
