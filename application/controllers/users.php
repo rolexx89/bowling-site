@@ -21,7 +21,7 @@ class users extends CI_Controller {
 	public function add() {
 		$this->load->library('UsersClass', array(), 'usersInstance');
                 //$data['usrsInstance'] = $this->usersInstance;
-                $data['usersLists'] = $this->usersInstance->getAllUsers();    
+                $data['usersLists'] = $this->usersInstance->getAllUsers();
 
 		$this->load->view('users_index',$data);
 	}
